@@ -1,0 +1,1 @@
+document.querySelectorAll('.btn').forEach(b=>b.addEventListener('click',()=>console.log('Guest guideline opened')));
